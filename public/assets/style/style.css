@@ -1,0 +1,15 @@
+textarea{
+ 
+    resize: none;
+}
+hr{
+    border: 1px solid black !important;
+    opacity: 1 !important;
+}
+.navbar-pink{
+background-color: palevioletred !important;
+
+}
+.navbar-pink *{
+    color: white !important;
+}
