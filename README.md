@@ -7,14 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About the project
+## About the project : it's video science website for viewing videos , podcasts and blogs
 
 The function for website is : 
 <br>
-- dashboard : Add-edit-delete video or blog or podcast or admin
-<br>
+- dashboard : <br>
+ Add-edit-delete video or blog or podcast or admin
 - View the numbers of the users or podcast or blogs or videos from the dashboard
-<br>
 - authentication and authorization for user and admin
-<br>
-- View all the data on the user part - faker and database seeder
+- View all the data on the user part
+- faker and database seeder
