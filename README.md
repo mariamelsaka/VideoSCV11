@@ -17,3 +17,7 @@ The function for website is :
 - authentication and authorization for user and admin
 - View all the data on the user part
 - faker and database seeder
+
+
+https://github.com/user-attachments/assets/3fe7f8bb-65b1-4a51-beb5-9cc9939a7374
+
