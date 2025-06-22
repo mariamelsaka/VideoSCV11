@@ -8,10 +8,10 @@
 </p>
 
 ## About the project : it's video science website for viewing videos , podcasts and blogs
-I have used for front end :
-Html ,css and bootstrap 
-And for back end : 
-Laravel framework
+I have used for front end :<br>
+Html ,css and bootstrap <br>
+And for back end : <br>
+Laravel framework<br>
 The function for website is : 
 <br>
 - dashboard : <br>
